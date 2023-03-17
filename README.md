@@ -5,4 +5,4 @@ Aquí se pondrán los links de las prácticas de fluttlerflow
  link -> (https://app.flutterflow.io/project/drawer-825kcy?tab=widgetTree&page=HomePage)
 
 # Actividad 3 en Flutterflow
- link -> https://app.flutterflow.io/project/act3-ylw3hh?tab=widgetTree&page=HomePage
+ link -> https://app.flutterflow.io/share/act3-ylw3hh
